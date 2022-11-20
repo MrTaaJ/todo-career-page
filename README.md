@@ -9,6 +9,10 @@ This is a Fragment of a general project that was created in HNGi9 for stage 4 pr
 - Career Recruitment Section
 - Job Openings Section
 
+## Note
+
+This is a group project, so the header and footer might be missing because it is a reusable components and is designed by someone else.
+
 ## Built With
 
 - JavaScript,
